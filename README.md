@@ -6,6 +6,19 @@ Credit scoring algorithms, which make a guess at the probability of default, are
 
 The goal of this project is to build a model that borrowers can use to help make the best financial decisions.
 
+## Libraries used:
+ - Pandas
+ - Sklearn: 
+ - Ploty
+ - Matplotlib and Seaborn
+
+## Machine learning Algorithms:
+- Neural Network
+- Xgboost
+- Random forest
+- SVC
+- Kneighbors 
+
 ## Data Dictionary
 - SeriousDlqin2yrs:	
     Person experienced 90 days past due delinquency or worse 	Y/N
@@ -39,3 +52,5 @@ The goal of this project is to build a model that borrowers can use to help make
 
 - NumberOfDependents:	
     Number of dependents in family excluding themselves (spouse, children etc.)	(integer)
+    
+## Classification problem with Imbalanced Dataset
